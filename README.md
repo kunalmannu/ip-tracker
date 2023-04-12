@@ -11,18 +11,11 @@
 - sudo chmod 777 *
 - bash install.sh
 
-# Steps to run this tool on termux(android):
-- git clone https://github.com/kunalmannu/ip-tracker.git
-- cd ip-tracker
-- chmod +x *
-- bash androinstall.sh
-
 # Img
 
 linux
 ![lll](https://raw.githubusercontent.com/kunalmannu/ip-tracker/main/ip1.png)
 ![lll](https://raw.githubusercontent.com/kunalmannu/ip-tracker/main/ip2.png)
 
-Android(Termux)
 
 # Thank You
