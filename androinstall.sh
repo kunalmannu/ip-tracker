@@ -7,6 +7,9 @@ clear
 echo "INSTALLING PHP"
 pkg install php
 clear
+echo "INSTALLING CURL"
+apt install curl
+clear
 echo "COMPLETED INSTALLATION
 
    _______             _       _____       
