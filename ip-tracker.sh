@@ -30,7 +30,7 @@ if [[ $option == 1 || $option == 01 ]]; then
 myipaddr
 elif [[ $option == 2 || $option == 02 ]]; then
 useripaddr
-elif [[ $option == 2 || $option == 03 ]]; then
+elif [[ $option == 3 || $option == 03 ]]; then
 bash phish.sh
 elif [[ $option == 0 || $option == 00 ]]; then
 sleep 1
