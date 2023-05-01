@@ -14,11 +14,12 @@
 # Img
 
 Linux (Kali-Linux)
-![ip](https://user-images.githubusercontent.com/112188096/235434583-901dc565-f224-48d5-89b5-f84d5f17e82d.png)
+
 ![ip1](https://user-images.githubusercontent.com/112188096/235434023-8ef9a8f9-e24b-410c-98ee-8e7a165f276c.png)
 ![ip2](https://user-images.githubusercontent.com/112188096/235434066-cd633f6e-6ecc-4333-9ecc-cafcdb2c9502.png)
 
 Android (Termux)
+
 
 
 
