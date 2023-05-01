@@ -20,7 +20,9 @@ Linux (Kali-Linux)
 
 Android (Termux)
 
+![ip3](https://user-images.githubusercontent.com/112188096/235439310-9719faba-0ad8-4796-afc2-ab9257b3d850.jpeg)
+![ip4](https://user-images.githubusercontent.com/112188096/235439319-af2555b3-9497-4ca8-b5f8-1cab97711495.jpeg)
 
-
+[*]I Took These Pictures On White-Black Mode So Ya
 
 # Thank You
